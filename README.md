@@ -4,7 +4,7 @@ Desktop face detection application built with Python, **OpenCV**, **MediaPipe (B
 
 ## Prerequisites
 
-Python 3.9 – 3.12
+Python 3.9 – 3.14
 
 A working webcam
 
@@ -48,4 +48,4 @@ pyinstaller --noconfirm --onedir --windowed --name "FaceDetector" --collect-all 
 
 ## License
 
-[MIT License](https://choosealicense.com/licenses/mit/)
+[MIT License](https://github.com/ScareCrowST/face_detector_app/blob/main/LICENSE)
